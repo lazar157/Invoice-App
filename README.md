@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-project
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# Invoice-App
+Invoice App, Vue 3 Composition API &amp; Pinia
+>>>>>>> 5af31123a948a47313745c3abaed6e8d4862f5ec
