@@ -30,5 +30,5 @@ npm run build
 ```
 =======
 # Invoice-App
-Invoice App, Vue 3 Composition API &amp; Pinia
+Invoice App, Vue 3 Composition API &amp; Pinia & FireBase
 >>>>>>> 5af31123a948a47313745c3abaed6e8d4862f5ec
